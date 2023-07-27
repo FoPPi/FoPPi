@@ -22,7 +22,7 @@ Additionally, I have experience working with databases such as PostgreSQL and My
 
 ## GitHub Repositories
 
-You can find all of my projects and code samples on my [GitHub profile](https://github.com/FoPPi?tab=repositories).
+You can find all of my projects and code samples on my [GitHub profile](https://github.com/FoPPi?tab=repositories) and [Redible](https://github.com/RedibleUA).
 
 ## Current Status
 
