@@ -30,4 +30,4 @@ I consider myself a junior developer, constantly learning and honing my skills. 
 
 ## Freelance Projects
 
-I also take up freelance projects and create custom websites for clients. If you're interested in working with me or want to check out my portfolio, feel free to visit my website: [Green Line Studio](https://green-line-studio.vercel.app). You'll find more details about my services and the projects I've worked on.
+I also take up freelance projects and create custom websites for clients. If you're interested in working with me or want to check out my portfolio, feel free to visit my website: [Green Line Studio](https://green-line-studio.xyz). You'll find more details about my services and the projects I've worked on.
