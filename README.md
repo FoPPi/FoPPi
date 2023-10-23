@@ -4,7 +4,7 @@ Hello there! 👋 Welcome to my GitHub account! Here's a little bit about me:
 
 ## About Me
 
-I'm Mike, a full-stack developer with a passion for creating robust and efficient web applications. My expertise lies in various programming languages, including:
+I'm Mike, a full-stack developer with a passion for creating robust and efficient applications. My expertise lies in various programming languages, including:
 
 - C#
 - C++
