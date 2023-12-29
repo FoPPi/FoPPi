@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack developer
 --------------------
 
-I'm Mike, a full-stack developer with a passion for creating robust and efficient applications. My expertise lies in various programming languages, including: C# C++ GO Python I primarily focus on backend development, but I also enjoy working on frontend projects using technologies like: React Next.js Vue.js Nuxt.js Additionally, I have experience working with databases such as PostgreSQL and MySQL, ensuring data is managed effectively and securely.
+I'm Mike, a full-stack developer with a passion for creating robust and efficient applications. My expertise lies in various programming languages, including: C#, C++, GO, Python. I primarily focus on backend development, but I also enjoy working on frontend projects using technologies like: React, Next.js, Vue.js, Nuxt.js. Additionally, I have experience working with databases such as PostgreSQL and MySQL, ensuring data is managed effectively and securely.
 
 *   🌍  I'm based in Ukraine
 *   🖥️  See my portfolio at [Green Line Studio](http://green-line-studio.xyz)
