@@ -84,6 +84,8 @@ I'm Mike, a full-stack developer with a passion for creating robust and efficien
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=foppi&show_icons=true&theme=dark&hide_border=true&locale=en" alt="foppi" />
 </p>
 
-### Support Me
-<a href="https://www.buymeacoffee.com/foppi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-<a href="https://www.ko-fi.com/foppi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+### Support:
+<p>
+  <a href="https://www.buymeacoffee.com/foppi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="foppi" /></a>
+  <a href="https://ko-fi.com/foppi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="foppi" /></a>
+</p>
